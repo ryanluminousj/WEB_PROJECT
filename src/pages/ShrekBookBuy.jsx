@@ -63,7 +63,7 @@ function ShrekBookBuy() {
 
           <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', alignItems: 'stretch', margin: '20px 0' }}>
             <div style={{ flex: '1 1 300px', padding: '20px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-              <img src="https://www.apple.com/v/macbook-air/t/images/overview/hero/hero_static__c9sislzzicq6_large.png" alt="ShrekBook" style={{ maxWidth: '100%', borderRadius: '10px' }} />
+              <img src="https://www.apple.com/v/macbook-air/t/images/overview/hero/hero_static__c9sislzzicq6_large.png" style={{ maxWidth: '100%', borderRadius: '10px' }} />
             </div>
 
             <div style={{ flex: '1 1 300px', padding: '20px' }}>
